@@ -68,7 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contribution
 
 Feel free to open issues or submit pull requests if you would like to improve this tool. Contributions are welcome!
-
-```
-
-This version of the README is more polished and includes detailed information about the functionality and usage of your project, making it clear for users to understand how to install, use, and contribute. You can also customize it further based on specific details about your project.
